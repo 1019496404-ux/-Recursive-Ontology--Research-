@@ -15,3 +15,5 @@
 ## 当前进展 (Current Progress)
 - 基础任务看板已就绪，包含开放研究问题（Q6–Q14）与创始人行动计划（A15–A21）。
 - 欢迎对特定研究问题感兴趣的朋友在 Issues 中参与讨论或认领任务。
+## 核心资源 (Core Resources)
+- 创始提案 (Founding Proposal on Zenodo)：https://doi.org/10.5281/zenodo.24588887
