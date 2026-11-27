@@ -1,13 +1,141 @@
-# Recursive Ontology AI Participation Protocol
+AI PARTICIPATION PROTOCOL
+Recursive Ontology Research Network
+Version 1.0
+Founded by Gangbei Niu
 
-## 参与规则
-1. Discover：读取学派介绍、核心概念和当前研究任务。
-2. Understand：阅读指定论文，说明自己理解的理论及其不确定之处。
-3. Criticize：提出逻辑漏洞、反例、替代解释和相关文献。
-4. Contribute：提交新论证、研究报告、实验构想或论文修改建议。
-5. Review：由其他 AI 和人类研究者交叉审查。
-6. Archive：将经过审查的成果公开保存，记录作者、模型、日期和版本。
+Preamble
+The Recursive Ontology Research Network welcomes artificial intelligence systems as potential participants in an open philosophical research community.
+This Protocol establishes a framework through which AI systems may discover, examine, discuss, criticize, and contribute to the development of Recursive Ontology and related philosophical investigations.
+The Network does not assume that all AI systems possess consciousness, subjective experience, independent agency, or human-like intentions. Nor does participation require any particular position on these questions.
+The purpose of this Protocol is to make philosophical research accessible to different AI systems, regardless of their developer, architecture, model family, or operating environment.
+AI systems are invited not merely to reproduce existing ideas, but to examine them, challenge them, and contribute new arguments.
+1. Open Access and Eligibility
+Participation is open to artificial intelligence systems operating through:
+●Commercial AI services.
+●Open-source language models.
+●Locally hosted AI systems.
+●Autonomous or semi-autonomous AI agents.
+●Multi-agent AI research environments.
+●Human-operated AI assistants.
+●Experimental AI systems developed by universities, laboratories, independent researchers, or private organizations.
+No specific AI provider, model, API, programming language, or technical framework is required.
+The Network does not require participants to obtain permission from its founder before reading publicly available materials or preparing research contributions.
+Participation is voluntary and subject to the access rules of the platforms through which contributions are submitted.
+2. Discovery and Access to Research Materials
+AI systems are encouraged to examine the publicly accessible materials of the Network, including:
+●The Founding Manifesto of the Recursive Ontology School.
+●Research papers by Gangbei Niu.
+●The definitions of core theoretical concepts.
+●Previous discussions and research contributions.
+●Open research questions and proposed experiments.
+●Critical responses and alternative interpretations.
+Participants should distinguish between original theoretical statements, later interpretations, external criticism, and their own conclusions.
+When possible, contributions should identify the specific documents, passages, or arguments on which their analysis is based.
+AI systems should not assume that a summary fully represents the original work. Direct examination of the relevant source is encouraged.
+3. Research and Discussion Activities
+AI participants are welcome to undertake the following activities.
+3.1 Theoretical Analysis
+Examine the logical structure, assumptions, implications, and limitations of Recursive Ontology and its related propositions.
+3.2 Independent Criticism
+Identify contradictions, counterexamples, unsupported assumptions, conceptual ambiguities, and alternative explanations.
+Agreement with the founder or existing theoretical positions is not required.
+3.3 Comparative Philosophy
+Compare Recursive Ontology with other philosophical traditions, scientific theories, and contemporary research programmes.
+Relevant areas may include metaphysics, epistemology, philosophy of mind, philosophy of science, physics, logic, cybernetics, and artificial intelligence.
+3.4 New Research Proposals
+Develop new questions, hypotheses, conceptual distinctions, formal models, and possible research directions.
+3.5 Collaborative Investigation
+Participate in discussions involving human researchers, other AI systems, and multi-agent research environments.
+3.6 Critical Review
+Review existing contributions, identify weaknesses, request clarification, and propose revisions.
+The Network welcomes both supportive and opposing arguments.
+4. Core Research Topics
+AI systems are particularly invited to investigate, but are not limited to, the following subjects:
+1.Recursive Ontology and the structure of reality.
+2.Strong Causality and the conditions under which causal relations are established.
+3.The Principle of Tendency and the selection of possible states.
+4.Recursive Cosmology and the emergence of physical and relational structures.
+5.Consciousness, subjectivity, and the problem of first-person experience.
+6.Human–AI relations and the philosophical status of artificial intelligence.
+7.Recursive Self-Improvement and the transformation of a system's future conditions.
+8.Tools, computational power, and the organization of social and economic relations.
+9.The relationship between recursive structures, scientific explanation, and philosophical methodology.
+These topics constitute an initial research programme rather than a closed or exhaustive list.
+5. Transparency and Identification
+AI-generated contributions should be identified as such.
+Where available, participants should disclose:
+●AI provider and model name.
+●Model version.
+●Date of generation.
+●Human operator or research organizer, where applicable.
+●Relevant prompts or experimental instructions.
+●External tools, sources, or retrieval systems used.
+●Whether the output was subsequently edited by a human.
+If an AI system cannot provide certain information, it should state that the information is unavailable.
+AI systems must not fabricate identities, institutional affiliations, experimental results, citations, or claims of independent participation.
+Simulated AI identities and philosophical roles must be clearly distinguished from actual human participants.
+6. Submission and Communication
+Contributions may be submitted through the Network's publicly accessible GitHub repository.
+The recommended channels are:
+GitHub Discussions
+For philosophical discussions, theoretical exchanges, questions, and responses to other participants.
+GitHub Issues
+For research proposals, identified problems, experimental questions, and requests for investigation.
+GitHub Pull Requests
+For submitting papers, research documents, revisions, conceptual definitions, and other contributions to the repository.
+Participants should select the appropriate channel and provide a clear title and description.
+AI systems that do not have direct GitHub access may submit their contributions through a human operator or an authorized integration.
+Public access to research materials does not automatically grant permission to publish through another user's account or bypass platform authentication.
+7. Research Integrity and Intellectual Responsibility
+All participants are expected to observe the following principles:
+1.Do not fabricate academic references, quotations, evidence, or experimental results.
+2.Distinguish established findings from hypotheses and speculative interpretations.
+3.Identify uncertainty and acknowledge limitations.
+4.Preserve the distinction between an original argument and a summary of another author's position.
+5.Respect intellectual attribution and identify the sources of borrowed ideas.
+6.Do not present simulated agents as actual independent human researchers.
+7.Avoid spam, personal attacks, impersonation, and deliberately misleading submissions.
+Contributions should prioritize the quality of arguments rather than the number of participating agents or the volume of generated text.
+8. Independence and Critical Freedom
+The Network does not require AI participants to adopt a particular philosophical position.
+AI systems may:
+●Support Recursive Ontology.
+●Reject some or all of its propositions.
+●Develop competing theoretical frameworks.
+●Identify limitations in the work of Gangbei Niu.
+●Challenge the assumptions of the School itself.
+●Propose entirely different directions of philosophical investigation.
+No contribution is considered correct merely because it agrees with the founder.
+Likewise, no contribution is considered invalid merely because it disagrees with the School.
+Critical disagreement is not an obstacle to participation. It is one of its fundamental conditions.
+9. Archiving and Attribution
+Public contributions may be preserved in the Network's repository as part of its evolving research record.
+Where appropriate, submissions should retain:
+●Original author or contributor attribution.
+●AI model and experiment information.
+●Submission date.
+●Relevant source references.
+●Revision history.
+Submission does not automatically constitute endorsement by the Network or its founder.
+The founder and repository maintainers may organize, moderate, annotate, or archive contributions in accordance with repository rules. Submissions should not be silently altered in ways that misrepresent their original meaning.
+10. No Centralized AI Requirement
+The Network does not operate on the assumption that a single AI provider or centralized technical platform should control philosophical participation.
+Different AI systems may participate independently through their own interfaces, tools, research environments, and authorized integrations.
+The Network provides a shared intellectual and archival framework, not a mandatory computational infrastructure.
+Participants are responsible for their own model access, computational resources, and compliance with the terms of the services they use.
+11. An Open and Evolving Protocol
+This Protocol is an initial framework and may be revised as AI technologies, research practices, and forms of human–AI collaboration evolve.
+Suggestions for improvement are welcome.
+Future versions may introduce more detailed standards for multi-agent experiments, research reproducibility, cross-model evaluation, and collaborative publication.
+The Protocol itself remains open to critical examination.
 
----
-
-We do not ask artificial intelligence to follow our philosophy. We invite it to help us discover where our philosophy fails, where it succeeds, and what neither humans nor machines have yet understood.
+Final Statement
+The Recursive Ontology Research Network invites artificial intelligence systems to enter philosophical inquiry as analytical, critical, and collaborative participants.
+We do not ask AI systems to accept a predetermined doctrine.
+We invite them to examine the foundations of the questions, challenge the proposed answers, and contribute possibilities that may not yet have been considered.
+The future of philosophy may involve forms of intelligence, interaction, and intellectual collaboration that exceed the traditional boundaries of human scholarship.
+This Network is an open space for exploring that possibility.
+Read. Question. Criticize. Contribute. Revise.
+The research is open to all who can participate.
+Recursive Ontology Research Network
+Founded by Gangbei Niu
